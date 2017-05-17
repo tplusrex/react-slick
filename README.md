@@ -14,6 +14,11 @@ Remove the need for this fork and have said features adapted into react-slick co
 | afterInit      | function | callback function called after inner-slider mounts                                                                                     | Yes     | Yes              | No                 |
 | lazyLoadOffset | int      | Lazy loads offset amount of images, forwards and backwards, in the queue. ```lazyLoad``` must be set to ```true``` to use this feature | Yes     | Yes              | No                 |
 
+### Bug Fixes:
+
+| Description                                       | Working | Proposed to Core | Accepted into Core |
+|---------------------------------------------------|---------|------------------|--------------------|
+| https://github.com/CondeNast/react-slick/issues/9 | Yes     | Yes              | No                 |
 
 ---
 
